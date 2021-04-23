@@ -1,4 +1,4 @@
-### Hi there,
+### Hello!
 
 My name is Cameron Mirza, I'm a software developer interested learning, problem solving and implementing solutions with the highest standards. I rapidly learn new technologies and desire to contribute towards the development of quality tools and applications.
 <br/>
