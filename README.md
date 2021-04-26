@@ -2,6 +2,8 @@
 
 My name is Cameron Mirza, I'm a software developer interested learning, problem solving and implementing solutions with the highest standards. I rapidly learn new technologies and desire to contribute towards the development of quality tools and applications.
 <br/>
+- From September 2020 - April 2021, I completed the curriculum at Lambda School where I learned full stack web development.
+- My latest project is a React web app that allows lawyers to search a database of law cases to provide prediction of how judge might rule based upon a judge's prior decisions. Lawyers have the ability to upload PDF case files which are scraped by OCR for data to populate the database.
 
 ---
 #### Languages and Tools
