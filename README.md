@@ -1,4 +1,4 @@
-### Hello!
+<!--### Hello!
 
 My name is Cameron Mirza, I'm a software developer interested learning, problem solving and implementing solutions with the highest standards. I rapidly learn new technologies and desire to contribute towards the development of quality tools and applications.
 <br/>
@@ -28,7 +28,7 @@ My name is Cameron Mirza, I'm a software developer interested learning, problem 
 
 
 
-<!--
+
 **cmirza/cmirza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
